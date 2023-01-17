@@ -8,4 +8,8 @@ cmake_install.cmake
 install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
-_deps
+Cdeps
+_*.zip
+out/202*
+initial_configs/20*
+Forward_*
